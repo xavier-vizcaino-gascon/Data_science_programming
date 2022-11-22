@@ -1,0 +1,25 @@
+"""
+Main code to run all examples together
+"""
+import example_1_belgium_potential
+import example_2_goalkeepers
+import example_3_countries_bmi
+import example_4_comparison_bmi
+import example_5_data_filtering
+import example_6_movement_speed
+import example_7_best_defense
+
+
+example_1_belgium_potential
+
+example_2_goalkeepers
+
+example_3_countries_bmi
+
+example_4_comparison_bmi
+
+example_5_data_filtering
+
+example_6_movement_speed
+
+example_7_best_defense
