@@ -1,11 +1,11 @@
 ## Data_science_programming
 
 ### What's Data_science_programming
-It's a collection of activities performed to learn and develop basik python skills
+It's a collection of activities performed to learn and develop basic python skills
 
-PAC 1 to 3, are developed and executed in Jupyter notebooks while PAC 4 is developed with PyCharm and executed as python scripts  
+PAC 1 to 3, are developed and executed in Jupyter notebooks while PAC 4 is developed in PyCharm and executed as python scripts  
 
-### Authors
+### Author
 The author of these activities is:
 
 - [x] Xavier Vizcaino Gascon
